@@ -1,7 +1,7 @@
 <h1>Meu Nome é Matheus Medeiros!</h1>
 <div>
-      <a href="https://instagram.com/medeirosmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4169e1?logo=instagram&logoColor=121212&style=for-square" target="_blank"></a>
-      <a href="https://www.instagram.com/sts.nicky/' target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4169e1?style=for-square&logo=linkedin&logoColor=121212" target="_blank"></a> 
+      <a href="https://instagram.com/medeirosmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4169e1?logo=instagram&logoColor=white&style=for-square" target="_blank"></a>
+      <a href="https://www.instagram.com/sts.nicky/' target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4169e1?style=for-square&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
   <img align="center" alt="mt_flutter" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
