@@ -1,11 +1,29 @@
-<h1>Meu Nome é Matheus Medeiros!</h1>
-<div>
-      <a href="https://instagram.com/medeirosmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-gray?logo=instagram&logoColor=white&style=for-square" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/matheus-medeiros-8006502a1/' target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=for-square&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div>
-  <img align="center" alt="mt_react" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="mt_javascript" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="mt_html" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="mt_css" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+      <img align='right' height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medeirosmt&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
+</a>
+<h2>Meu nome é Matheus Medeiros</h2>
+      <div>
+            🔎 Foco e estudo em Front-End e Desenvolvimento Mobile<br>
+            📖 Atualmente estudando Bootstrap<br>
+      </div>
+
+<h2>Tech Stack</h2>
+      <div>
+            <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black">
+            <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black">
+            <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black">
+            <div>
+                  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            </div>
+      </div>
+
+<h2>Learning</h2>
+      <div>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+            <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+            <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">
+      </div>
