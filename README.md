@@ -4,7 +4,7 @@
 <h2>Meu nome é Matheus Medeiros</h2>
       <div>
             🔎 Foco e estudo em Front-End e Desenvolvimento Mobile<br>
-            📖 Atualmente estudando Bootstrap<br>
+            📖 Atualmente estudando React<br>
       </div>
 
 <h2>Tech Stack</h2>
@@ -22,8 +22,8 @@
 
 <h2>Learning</h2>
       <div>
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
             <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">
       </div>
