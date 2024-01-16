@@ -4,7 +4,7 @@
 <h2>Meu nome é Matheus Medeiros</h2>
       <div>
             🔎 Foco e estudo em Front-End e Desenvolvimento Mobile<br>
-            📖 Atualmente estudando React<br>
+            📖 Atualmente estudando ReactJS<br>
       </div>
 
 <h2>Tech Stack</h2>
