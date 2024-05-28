@@ -1,6 +1,6 @@
 <h2>Meu nome é Matheus Medeiros</h2>
       <div>
-            🔎 Foco e estudo em Back-End e Desenvolvimento Mobile<br>
+            🔎 Foco e estudo em Front-End e Desenvolvimento Mobile<br>
             📖 Atualmente estudando Javascript<br>
       </div>
 <h2>Learning</h2>
