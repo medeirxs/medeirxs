@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Matheus</h2>
 <p align="center">
       Enthusiast of the best web & mobile development technologies!<br>
-      Usability, beauty and performance. Why not make the best of 3 worlds in one? that's my goal
+      Usability, beauty and performance. Why not make the best of 3 worlds in one? That's my goal.
 </p>
 
 <h2 align="center">Technology Stack</h2>
@@ -21,4 +21,18 @@
 <div align="center">
       <img src="https://i.pinimg.com/originals/06/a5/a1/06a5a100bea5f5ed1c50ad576f7c6c83.gif" height="220px">
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=medeirxs&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dark&hide_border=true" height="220px">
+</div>
+
+<h2 align="center">Social</h2>
+<div align="center">
+      <a href="mailto:mtmedeirosgs@gmail.com">
+            <img src="https://img.shields.io/badge/mtmedeirosgs@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/medeirxs/">
+            <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white">
+      </a>
+      <a href="https://x.com/medeiirxs">
+            <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white">
+      </a>
+      
 </div>
